@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0CD585</color>
+    <color name="colorFloatingText">#00AB6E</color>
+
+    <color name="colorDimBackground">#E7E7E7</color>
+    <color name="colorRevealEffect">#a5c3b7</color>
+
+    <color name="colorBallBackground">#c9ffffff</color>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">You Local</string>
+
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_forgotten_password">Forgotten Password</string>
+
+    <string name="text_back_to_login">Back to login</string>
+    <string name="text_reset">Reset</string>
+
+    <string name="text_error_default">Error! Can\'t connect with server!</string>
+    <string name="text_error_unvalidated_email">Unvalidated email</string>
+    <string name="text_error_required_field">This field is required</string>
+    <string name="text_error_no_internet">No Internet Connection</string>
+
+    <string name="text_about_me">About me:</string>
+    <string name="text_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla aliquet commodo eros. Nulla blandit ipsum eu risus tempor, eget elementum dolor ullamcorper. Vivamus ultrices dui vel sapien sollicitudin feugiat. Proin felis turpis, sollicitudin eu dictum eu, suscipit vel neque. Nulla porta eget risus in aliquet. Mauris id neque at dolor condimentum gravida vitae quis massa. Curabitur fringilla dolor arcu, vel consectetur diam aliquet vel. Morbi pharetra venenatis urna, quis consectetur magna facilisis a. Nulla fringilla metus sit amet libero bibendum varius. Nunc dapibus, mauris ac sagittis elementum, metus felis luctus orci, vel cursus sapien ex ut nisi. Cras rutrum consectetur diam, in consequat turpis vestibulum fringilla. Donec luctus, magna mattis pretium cursus, ex mauris ullamcorper ante, ac commodo lorem elit vitae libero. Viva</string>
+
+</resources>

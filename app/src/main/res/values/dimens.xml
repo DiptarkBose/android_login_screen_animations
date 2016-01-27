@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">36dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="default_offset">14dp</dimen>
+    <dimen name="default_small_offset">7dp</dimen>
+
+    <dimen name="dialog_margin_left_right">20dp</dimen>
+    <dimen name="dialog_margin_top_bottom">70dp</dimen>
+    <dimen name="dialog_offset">20dp</dimen>
+    <dimen name="dialog_profile_image_size">170dp</dimen>
+</resources>
